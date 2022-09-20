@@ -1,0 +1,216 @@
+[
+  {
+    "dataset_name": "lm",
+    "base": "lm_base.zip",
+
+    "base_url": "https://bop.felk.cvut.cz/media/data/bop_datasets/lm_base.zip",
+    "model": "lm_models.zip",
+    "model_url": "https://bop.felk.cvut.cz/media/data/bop_datasets/lm_models.zip",
+    "images": [
+      "lm_train_pbr.zip",
+      "lm_train.zip",
+      "lm_test_all.zip",
+      "lm_test_bop19.zip"
+    ],
+    "image_urls": [
+      "https://bop.felk.cvut.cz/media/data/bop_datasets/lm_train_pbr.zip",
+      "https://bop.felk.cvut.cz/media/data/bop_datasets/lm_train.zip",
+      "https://bop.felk.cvut.cz/media/data/bop_datasets/lm_test_all.zip",
+      "https://bop.felk.cvut.cz/media/data/bop_datasets/lm_test_bop19.zip"
+    ]
+  },
+  {
+    "dataset_name": "lmo",
+    "base": "lmo_base.zip",
+    "base_url": "https://bop.felk.cvut.cz/media/data/bop_datasets/lmo_base.zip",
+    "model": "lmo_models.zip",
+    "model_url": "https://bop.felk.cvut.cz/media/data/bop_datasets/lmo_models.zip",
+    "images": [
+      "lm_train_pbr.zip",
+      "lmo_train.zip",
+      "lmo_test_all.zip",
+      "lmo_test_bop19.zip"
+    ],
+    "image_urls": [
+      "https://bop.felk.cvut.cz/media/data/bop_datasets/lm_train_pbr.zip",
+      "https://bop.felk.cvut.cz/media/data/bop_datasets/lmo_train.zip",
+      "https://bop.felk.cvut.cz/media/data/bop_datasets/lmo_test_all.zip",
+      "https://bop.felk.cvut.cz/media/data/bop_datasets/lmo_test_bop19.zip"
+    ]
+  },
+  {
+    "dataset_name": "tless",
+    "base": "tless_base.zip",
+    "base_url": "https://bop.felk.cvut.cz/media/data/bop_datasets/tless_base.zip",
+    "model": "tless_models.zip",
+    "model_url": "https://bop.felk.cvut.cz/media/data/bop_datasets/tless_models.zip",
+    "images": [
+      "tless_train_pbr.zip",
+      "tless_train_render_reconst.zip",
+      "tless_train_primesense.zip",
+      "tless_test_primesense_all.zip",
+      "tless_test_primesense_bop19.zip"
+    ],
+    "image_urls": [
+      "https://bop.felk.cvut.cz/media/data/bop_datasets/tless_train_pbr.zip",
+      "https://bop.felk.cvut.cz/media/data/bop_datasets/tless_train_render_reconst.zip",
+      "https://bop.felk.cvut.cz/media/data/bop_datasets/tless_train_primesense.zip",
+      "https://bop.felk.cvut.cz/media/data/bop_datasets/tless_test_primesense_all.zip",
+      "https://bop.felk.cvut.cz/media/data/bop_datasets/tless_test_primesense_bop19.zip"
+    ]
+  },
+  {
+    "dataset_name": "itodd",
+    "base": "itodd_base.zip",
+    "base_url": "https://bop.felk.cvut.cz/media/data/bop_datasets/itodd_base.zip",
+    "model": "itodd_models.zip",
+    "model_url": "https://bop.felk.cvut.cz/media/data/bop_datasets/itodd_models.zip",
+    "images": [
+      "itodd_train_pbr.zip",
+      "itodd_val.zip",
+      "itodd_test_all.zip",
+      "itodd_test_bop19.zip"
+    ],
+    "image_urls": [
+      "https://bop.felk.cvut.cz/media/data/bop_datasets/itodd_train_pbr.zip",
+      "https://bop.felk.cvut.cz/media/data/bop_datasets/itodd_val.zip",
+      "https://bop.felk.cvut.cz/media/data/bop_datasets/itodd_test_all.zip",
+      "https://bop.felk.cvut.cz/media/data/bop_datasets/itodd_test_bop19.zip"
+    ]
+  },
+  {
+    "dataset_name": "hb",
+    "base": "hb_base.zip",
+    "base_url": "https://bop.felk.cvut.cz/media/data/bop_datasets/hb_base.zip",
+    "model": "hb_models.zip",
+    "model_url": "https://bop.felk.cvut.cz/media/data/bop_datasets/hb_models.zip",
+    "images": [
+      "hb_train_pbr.zip",
+      "hb_val_primesense.zip",
+      "hb_val_kinect.zip",
+      "hb_test_primesense_all.zip",
+      "hb_test_kinect_all.zip",
+      "hb_test_primesense_bop19.zip"
+    ],
+    "image_urls": [
+      "https://bop.felk.cvut.cz/media/data/bop_datasets/hb_train_pbr.zip",
+      "https://bop.felk.cvut.cz/media/data/bop_datasets/hb_val_primesense.zip",
+      "https://bop.felk.cvut.cz/media/data/bop_datasets/hb_val_kinect.zip",
+      "https://bop.felk.cvut.cz/media/data/bop_datasets/hb_test_primesense_all.zip",
+      "https://bop.felk.cvut.cz/media/data/bop_datasets/hb_test_kinect_all.zip",
+      "https://bop.felk.cvut.cz/media/data/bop_datasets/hb_test_primesense_bop19.zip"
+    ]
+  },
+  {
+    "dataset_name": "hope",
+    "base": "hope_base.zip",
+    "base_url": "https://bop.felk.cvut.cz/media/data/bop_datasets/hope_base.zip",
+    "model": "hope_models.zip",
+    "model_url": "https://bop.felk.cvut.cz/media/data/bop_datasets/hope_models.zip",
+    "images": ["hope_val.zip", "hope_test_all.zip", "hope_test_bop19.zip"],
+    "image_urls": [
+      "https://bop.felk.cvut.cz/media/data/bop_datasets/hope_val.zip",
+      "https://bop.felk.cvut.cz/media/data/bop_datasets/hope_test_all.zip",
+      "https://bop.felk.cvut.cz/media/data/bop_datasets/hope_test_bop19.zip"
+    ]
+  },
+  {
+    "dataset_name": "ycbv",
+    "base": "ycbv_base.zip",
+    "base_url": "https://bop.felk.cvut.cz/media/data/bop_datasets/ycbv_base.zip",
+    "model": "ycbv_models.zip",
+    "model_url": "https://bop.felk.cvut.cz/media/data/bop_datasets/ycbv_models.zip",
+    "images": [
+      "ycbv_train_pbr.zip",
+      "ycbv_train_synt.zip",
+      "ycbv_train_real.zip",
+      "ycbv_test_all.zip",
+      "ycbv_test_bop19.zip"
+    ],
+    "image_urls": [
+      "https://bop.felk.cvut.cz/media/data/bop_datasets/ycbv_train_pbr.zip",
+      "https://bop.felk.cvut.cz/media/data/bop_datasets/ycbv_train_synt.zip",
+      "https://bop.felk.cvut.cz/media/data/bop_datasets/ycbv_train_real.zip",
+      "https://bop.felk.cvut.cz/media/data/bop_datasets/ycbv_test_all.zip",
+      "https://bop.felk.cvut.cz/media/data/bop_datasets/ycbv_test_bop19.zip"
+    ]
+  },
+  {
+    "dataset_name": "ruapc",
+    "base": "ruapc_base.zip",
+    "base_url": "https://bop.felk.cvut.cz/media/data/bop_datasets/ruapc_base.zip",
+    "model": "ruapc_models.zip",
+    "model_url": "https://bop.felk.cvut.cz/media/data/bop_datasets/ruapc_models.zip",
+    "images": ["ruapc_train.zip", "ruapc_test_all.zip", "ruapc_test_bop19.zip"],
+    "image_urls": [
+      "https://bop.felk.cvut.cz/media/data/bop_datasets/ruapc_train.zip",
+      "https://bop.felk.cvut.cz/media/data/bop_datasets/ruapc_test_all.zip",
+      "https://bop.felk.cvut.cz/media/data/bop_datasets/ruapc_test_bop19.zip"
+    ]
+  },
+  {
+    "dataset_name": "icbin",
+    "base": "icbin_base.zip",
+    "base_url": "https://bop.felk.cvut.cz/media/data/bop_datasets/icbin_base.zip",
+    "model": "icbin_models.zip",
+    "model_url": "https://bop.felk.cvut.cz/media/data/bop_datasets/icbin_models.zip",
+    "images": [
+      "icbin_train_pbr.zip",
+      "icbin_train.zip",
+      "icbin_test_all.zip",
+      "icbin_test_bop19.zip"
+    ],
+    "image_urls": [
+      "https://bop.felk.cvut.cz/media/data/bop_datasets/icbin_train_pbr.zip",
+      "https://bop.felk.cvut.cz/media/data/bop_datasets/icbin_train.zip",
+      "https://bop.felk.cvut.cz/media/data/bop_datasets/icbin_test_all.zip",
+      "https://bop.felk.cvut.cz/media/data/bop_datasets/icbin_test_bop19.zip"
+    ]
+  },
+  {
+    "dataset_name": "icmi",
+    "base": "icmi_base.zip",
+    "base_url": "https://bop.felk.cvut.cz/media/data/bop_datasets/icmi_base.zip",
+    "model": "icmi_models.zip",
+    "model_url": "https://bop.felk.cvut.cz/media/data/bop_datasets/icmi_models.zip",
+    "images": ["icmi_train.zip", "icmi_test_all.zip", "icmi_test_bop19.zip"],
+    "image_urls": [
+      "https://bop.felk.cvut.cz/media/data/bop_datasets/icmi_train.zip",
+      "https://bop.felk.cvut.cz/media/data/bop_datasets/icmi_test_all.zip",
+      "https://bop.felk.cvut.cz/media/data/bop_datasets/icmi_test_bop19.zip"
+    ]
+  },
+  {
+    "dataset_name": "tudl",
+    "base": "tudl_base.zip",
+    "base_url": "https://bop.felk.cvut.cz/media/data/bop_datasets/tudl_base.zip",
+    "model": "tudl_models.zip",
+    "model_url": "https://bop.felk.cvut.cz/media/data/bop_datasets/tudl_models.zip",
+    "images": [
+      "tudl_train_pbr.zip",
+      "tudl_train_render.zip",
+      "tudl_train_real.zip",
+      "tudl_test_all.zip",
+      "tudl_test_bop19.zip"
+    ],
+    "image_urls": [
+      "https://bop.felk.cvut.cz/media/data/bop_datasets/tudl_train_pbr.zip",
+      "https://bop.felk.cvut.cz/media/data/bop_datasets/tudl_train_render.zip",
+      "https://bop.felk.cvut.cz/media/data/bop_datasets/tudl_train_real.zip",
+      "https://bop.felk.cvut.cz/media/data/bop_datasets/tudl_test_all.zip",
+      "https://bop.felk.cvut.cz/media/data/bop_datasets/tudl_test_bop19.zip"
+    ]
+  },
+  {
+    "dataset_name": "tyol",
+    "base": "tyol_base.zip",
+    "base_url": "https://bop.felk.cvut.cz/media/data/bop_datasets/tyol_base.zip",
+    "model": "tyol_models.zip",
+    "model_url": "https://bop.felk.cvut.cz/media/data/bop_datasets/tyol_models.zip",
+    "images": ["tyol_test_all.zip", "tyol_test_bop19.zip"],
+    "image_urls": [
+      "https://bop.felk.cvut.cz/media/data/bop_datasets/tyol_test_all.zip",
+      "https://bop.felk.cvut.cz/media/data/bop_datasets/tyol_test_bop19.zip"
+    ]
+  }
+]
